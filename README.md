@@ -9,3 +9,5 @@ The file `loop.ipnb` computes the hysteresis loop of a small particle as functio
 
 ## domain wall
 The file `wall.ipnb` computes the domain wall profile
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasschrefl/micromagnetic_basics/HEAD)
